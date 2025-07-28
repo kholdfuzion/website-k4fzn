@@ -1,7 +1,7 @@
 title: Radios
 
 A listing of my mini radio collection:
-
+<br><br>
 
 Baofeng AR-5RM (currently embedded in my hammo can aprs setup)
 
@@ -13,5 +13,5 @@ Retevis RT3S (DMR, runs openGD77)
 
 Various SA818S and SA868S pcb "radios" for projects.
 
-
+<br><br>
 Hopefully this list will grow.
