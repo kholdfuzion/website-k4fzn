@@ -14,4 +14,4 @@ Retevis RT3S (DMR, runs openGD77)
 Various SA818S and SA868S pcb "radios" for projects.
 
 
-Hopefully this list with grow
+Hopefully this list will grow
