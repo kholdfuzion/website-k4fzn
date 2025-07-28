@@ -1,4 +1,4 @@
-title: My Radios
+title: Radios
 
 A listing of my mini radio collection:
 
@@ -14,4 +14,4 @@ Retevis RT3S (DMR, runs openGD77)
 Various SA818S and SA868S pcb "radios" for projects.
 
 
-Hopefully this list will grow
+Hopefully this list will grow.
