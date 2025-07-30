@@ -28,8 +28,7 @@ RELATIVE_URLS = True
 
 LINKS = (
         ('YouTube', 'http://youtube.com/@k4fzn'),
-        ('Github', 'http://github.com/kholdfuzion'),
-        ('Gitlab', 'http://gitlab.com/kholdfuzion')
+        ('Github', 'http://github.com/kholdfuzion')
 
 )
 
