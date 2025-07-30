@@ -11,7 +11,7 @@ Radioddity DB-25 (my mini base station)
 
 Retevis RT3S (DMR, runs openGD77)
 
-Various SA818S and SA868S pcb "radios" for projects.
+Various SA818S and SA828S pcb "radios" for projects.
 
 <br><br>
 Hopefully this list will grow.
