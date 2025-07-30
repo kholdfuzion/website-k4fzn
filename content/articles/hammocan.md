@@ -29,7 +29,7 @@ Field testing is still to come. It does work great around the house during initi
 
 ## Future Plans
 
-I plan to replace the AIOC and AR-5RM with an SA828S-V and a CM108 sound card. I would like to repurpose my radio and AIOC for other projects. I have several CM108 sound cards that I've modified and tested with an SA818, which is only a 1W module compared to the 2W AR-5RM.
+I plan to replace the AIOC and AR-5RM with an SA828S-V and a CM108 sound card. I would like to repurpose my radio and AIOC for other projects. I have several CM108 sound cards that I've modified and tested with an SA818, which is only a 1W module compared to the 2W SA828.
 
 ![Future Components]({static}/images/hammo-can-future-parts.jpg)
 *SA818S-V and CM108 sound card test setup*
