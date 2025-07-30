@@ -33,3 +33,5 @@ I plan to replace the AIOC and AR-5RM with an SA828S-V and a CM108 sound card. I
 
 ![Future Components]({static}/images/hammo-can-future-parts.jpg)
 *SA818S-V and CM108 sound card test setup*
+
+I also have to replace the temporary panel made of modeling styrene with a "real" one cut from wood or metal. I'll need to borrow a laser cutter or cnc for that. 
