@@ -2,6 +2,7 @@ title: Radios
 
 A listing of my mini radio collection:
 <br><br>
+Yaesu FT-991A
 
 Baofeng AR-5RM (currently embedded in my hammo can aprs setup)
 
