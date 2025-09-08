@@ -27,6 +27,7 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 LINKS = (
+        ('NCMesh', 'http://ncmesh.net'),
         ('YouTube', 'http://youtube.com/@k4fzn'),
         ('Github', 'http://github.com/kholdfuzion')
 
