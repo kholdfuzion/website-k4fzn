@@ -3,7 +3,7 @@ Date: 09.26.2025 15:23
 Category: Articles
 Tags: meshtastic, lora, heltec, esp32, iot, hardware
 
-I'm excited to share that I'm eagerly awaiting the arrival of the Heltec V4 LoRa 32 Development Board, which I'll be setting up for Meshtastic projects. This device is the upgraded V4 version of the classic LoRa 32 board, featuring enhanced performance, and full compatibility with Meshtastic networks.
+I'm thrilled to announce that I'm eagerly awaiting the arrival of the Heltec V4 LoRa 32 Development Board, which I'll be integrating into my Meshtastic projects. This upgraded V4 version of the classic WiFi LoRa 32 board offers enhanced performance and full compatibility with Meshtastic networks.
 
 ### Key Features
 
