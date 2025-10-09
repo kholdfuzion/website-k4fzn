@@ -25,7 +25,7 @@ I’m currently working on a multiband fan dipole with elements tuned for 10M, 2
 ### Black Widow Fishing Pole Antenna
 This is a recent experiment: I picked up a [10-meter collapsible Black Widow BW6 fishing pole](https://amzn.to/4mTdMBV) (Amazon affiliate link) and turned it into a portable antenna. The key is the loading coil, which I printed from [this Thingiverse design](https://www.thingiverse.com/thing:4525375). It’s super light, packs down small, and is perfect for field operations or quick setups in the backyard. The coil lets me fine-tune to a specific band. I love how easy it is to deploy—just stick the holder in the ground, string the counterpoise and, optionally, guy wires, and get on the air.
 
-![Black Widow BW6 antenna packed up and ready for adventure](/content/images/bw6-antenna.jpg)
+![Black Widow BW6 antenna packed up and ready for adventure]({static}/images/bw6-antenna.jpg)
 <br>
 *Black Widow BW6 antenna packed up and ready for adventure.*
 
