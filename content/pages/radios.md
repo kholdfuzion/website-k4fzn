@@ -1,6 +1,6 @@
 title: Radios
 
-Here's my mini radio collection:
+Here's my small but growing radio collection:
 
 - **Yaesu FT-991A** - My new main base station. [Amazon Link](https://amzn.to/4gHgJ7n)
 - **Baofeng AR-5RM** - Currently embedded in my Hammo Can APRS setup. [Amazon Link](https://amzn.to/4nVgEiP)
@@ -9,4 +9,4 @@ Here's my mini radio collection:
 - **Retevis RT3S** - With GPS, DMR, runs OpenGD77. [Amazon Link](https://amzn.to/4pJJvIt)
 - **Various SA818S and SA828S PCB radios** - For projects. [Amazon Link](https://amzn.to/4pHt0g5)
 
-Hopefully this list will grow.
+If you’d like to help support the site, using any of the affiliate links above is greatly appreciated!
