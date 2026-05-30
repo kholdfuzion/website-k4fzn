@@ -6,7 +6,11 @@ Here are things I've purchased from Amazon for radio:
 
 - **Heltec ESP32 LoRa 32 V4 Development Board with OLED (ESP32-S3 + SX1262)** - [Amazon Link](https://amzn.to/4327Wa7)
 - **Heltec V4 ESP32 LoRa Development Board (No OLED, ESP32-S3 + SX1262)** - [Amazon Link](https://amzn.to/4o0eOhQ)
+- **Heltec ESP32 LoRa V3 SX1262 Development Board with OLED (433-510MHz, Unsoldered)** - [Amazon Link](https://amzn.to/3PSIWPl)
 - **RAKwireless WisBlock Meshtastic Starter Kit US915 (RAK19007 + RAK4631)** - [Amazon Link](https://amzn.to/49ztf6y)
+- **SenseCAP Card Tracker T1000-E for Meshtastic** - [Amazon Link](https://amzn.to/4uaw1Xk)
+- **AURSINC MMDVM Hotspot Board V1.5.2 with OLED (P25/DMR/YSF/DSTAR/NXDN, Raspberry Pi)** - [Amazon Link](https://amzn.to/4dW6zia)
+- **RTL-SDR Blog V4 R828D RTL2832U Software Defined Radio with Dipole Antenna Kit** - [Amazon Link](https://amzn.to/4vn3jn9)
 
 ### Antennas
 
@@ -34,10 +38,16 @@ Here are things I've purchased from Amazon for radio:
 - **SMA Attenuator Kit 10dB/20dB/30dB (3-Pack, 2W, DC-6GHz)** - [Amazon Link](https://amzn.to/4fcCU6D)
 - **USB Cable Tester with 2.4in Color Screen (PD 3.0/3.1 + eMarker)** - [Amazon Link](https://amzn.to/49tTafP)
 - **UT01C USB Tester, 3.3-40V 0-12A, Voltage/Current/Power Multimeter, Fast Charging Protocol Detection, PD2.0/PD3.1, QC2.0/QC3.0/QC4.0 (Purple)** - [Amazon Link](https://amzn.to/4wYK7O5)
+- **150A High Precision Power Analyzer, Measuring Voltage/Current/Power/Charge/Energy** - [Amazon Link](https://amzn.to/4u2nUvF)
+- **AURSINC TinySA V0.3.1 Handheld Spectrum Analyzer 100kHz-960MHz with 2.8in Touchscreen** - [Amazon Link](https://amzn.to/4x1eVh7)
+- **Elikliv NanoVNA-H4 Vector Network Analyzer 10KHz-1.5GHz, 4in Screen** - [Amazon Link](https://amzn.to/4fRdXOc)
+- **Boobrie SMA Male to U.FL/IPX Male Coaxial Adapter (Pack of 2)** - [Amazon Link](https://amzn.to/43FJKKI)
 
 ### Electronics Components
 
 - **LM66200 Ideal Diode Module (DC 2.5V-5V, Reverse Voltage Protection)** - [Amazon Link](https://amzn.to/4fhzKyy)
+- **L76K GNSS GPS Module for ESP32 LoRa V4 Mesh Node T114** - [Amazon Link](https://amzn.to/434Ayj2)
+- **Geekstory GT-U7 GPS Module NEO-6M with Active Antenna (2-Pack)** - [Amazon Link](https://amzn.to/4uFXXmR)
 
 ### Misc
 
