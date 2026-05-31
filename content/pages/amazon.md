@@ -33,6 +33,7 @@ Here are things I've purchased from Amazon for radio:
 - **3.7V 10000mAh LiPo Battery with USB Charger Cable (PH2.0 Plug)** - [Amazon Link](https://amzn.to/4x0SNDo)
 - **Micro Solar Panels Kit, 10PCS 5V 200mA Epoxy Solar Cells (110x60mm)** - [Amazon Link](https://amzn.to/3Qc6Qpd)
 - **2pcs USB Solar Panel 6W 5V Monocrystalline Mini Solar Panels (IP67)** - [Amazon Link](https://amzn.to/3Q9O5mo)
+- **30A DC 13.8V Bench Power Supply with Analog V/A Meter** - [Amazon Link](https://amzn.to/3Q8bvIO)
 
 ### Test Tools
 
