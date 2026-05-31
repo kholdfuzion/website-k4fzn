@@ -32,6 +32,7 @@ Here are things I've purchased from Amazon for radio:
 - **3.7V 3000mAh LiPo Battery with JST1.25mm Connector (4-Pack)** - [Amazon Link](https://amzn.to/4vjqFd1)
 - **3.7V 10000mAh LiPo Battery with USB Charger Cable (PH2.0 Plug)** - [Amazon Link](https://amzn.to/4x0SNDo)
 - **Micro Solar Panels Kit, 10PCS 5V 200mA Epoxy Solar Cells (110x60mm)** - [Amazon Link](https://amzn.to/3Qc6Qpd)
+- **2pcs USB Solar Panel 6W 5V Monocrystalline Mini Solar Panels (IP67)** - [Amazon Link](https://amzn.to/3Q9O5mo)
 
 ### Test Tools
 
@@ -52,5 +53,8 @@ Here are things I've purchased from Amazon for radio:
 ### Misc
 
 - **Permatex 80050 Clear RTV Silicone Adhesive Sealant, 3 oz** - [Amazon Link](https://amzn.to/49w2v6U)
+- **XFasten Self Fusing Silicone Tape Waterproof White (1in x 36ft)** - [Amazon Link](https://amzn.to/4dEE8X4)
+- **XFasten Self Fusing Silicone Tape Waterproof Black (1in x 36ft)** - [Amazon Link](https://amzn.to/4vd03ui)
+- **30 AWG Silicone Electrical Wire Cable Kit, 7 Colors (65.6ft Each)** - [Amazon Link](https://amzn.to/3Q8aZKS)
 
 If you'd like to help support the me, using any of the affiliate links above is greatly appreciated!
