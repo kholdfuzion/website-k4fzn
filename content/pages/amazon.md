@@ -1,4 +1,4 @@
-title: Amazon
+title: Amazon List
 
 Here are things I've purchased from Amazon for radio:
 
